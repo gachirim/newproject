@@ -9,3 +9,5 @@ Author: Peter <gachiri@gmail.com>
 Date:   Wed Apr 20 02:25:30 2022 +0000
 
     added index1 to LR
+included more modification
+
